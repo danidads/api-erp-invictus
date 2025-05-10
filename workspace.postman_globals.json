@@ -2,24 +2,6 @@
 	"id": "a9dafbf4-cb29-4c84-8fea-f74374c9346b",
 	"values": [
 		{
-			"key": "url",
-			"value": "https://invictus.qacoders.dev.br/api-docs/",
-			"type": "default",
-			"enabled": true
-		},
-		{
-			"key": "TokenAdm",
-			"value": "",
-			"type": "default",
-			"enabled": true
-		},
-		{
-			"key": "TokenUser",
-			"value": "",
-			"type": "default",
-			"enabled": true
-		},
-		{
 			"key": "EmailLogin",
 			"value": "sysadmin@qacoders.com",
 			"type": "default",
@@ -30,10 +12,16 @@
 			"value": "1234@Test",
 			"type": "default",
 			"enabled": true
+		},
+		{
+			"key": "URL",
+			"value": "https://invictus.qacoders.dev.br/api",
+			"type": "default",
+			"enabled": true
 		}
 	],
 	"name": "Globals",
 	"_postman_variable_scope": "globals",
-	"_postman_exported_at": "2025-05-10T08:13:19.206Z",
+	"_postman_exported_at": "2025-05-10T20:39:50.661Z",
 	"_postman_exported_using": "Postman/11.44.2"
 }
